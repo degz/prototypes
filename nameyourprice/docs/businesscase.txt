@@ -1,0 +1,12 @@
+So my personal opinion is that the real value is in how we are able to help in the decision making process - both the buyer and the seller (and not focus so much in how we enable communication or the sale itself or the fulfillment like amazon)
+
+Buyer needs
+ - product discovery, product comparison, 
+ - price history and as KBB.com shows for a car - the best market price and the price that you should ask the dealer to begin the negotiation (and the final price which most of the other people are settling for)
+
+Seller needs
+ - buyer profile - spending pattern, shopping pattern, appetite for negotiation (aggressive v\s soft)
+ - a predefined analytical model using which he can determine what is the right price point for a type of buyer profile; so that he can predict (or atleast speculate) his right price and understand how his investments can panout. If the buyer asks for a price below the reasonable price point then the seller can right away reject; if it is near the price point then the seller has incentive to negotiate and protect his customer and the price. So the key in developing this model - as Rohit was mentioning in our discussion last time - the lowest attractive price for the seller.
+ - once we build a history of negotiated price for a particular product I think that can help us determine the moving weighted average price and determine the price range where there is the best possibility of the deal happening - for both the seller and the buyer - and the system should drive both the seller and buyer to this price point.
+
+I think we should model a real negotiating exercise and see how many of the data points can be predicted or calculated and then facilitate this in the solution.
